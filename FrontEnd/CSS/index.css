@@ -1,0 +1,25 @@
+.navbar{
+    background-color: lightsalmon;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.navbar li{
+    display: inline;
+    padding: 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+a.orange{
+    color: orangered;
+}
+.banner{
+    background-color: lightyellow;
+    color: black;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0px;
+
+}

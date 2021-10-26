@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mis321_gPA/1.0.0": {
+        "runtime": {
+          "Mis321_gPA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mis321_gPA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

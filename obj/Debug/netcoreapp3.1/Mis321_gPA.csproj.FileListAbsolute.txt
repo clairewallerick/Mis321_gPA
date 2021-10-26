@@ -1,0 +1,13 @@
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\bin\Debug\netcoreapp3.1\Mis321_gPA.exe
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\bin\Debug\netcoreapp3.1\Mis321_gPA.deps.json
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\bin\Debug\netcoreapp3.1\Mis321_gPA.runtimeconfig.json
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\bin\Debug\netcoreapp3.1\Mis321_gPA.runtimeconfig.dev.json
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\bin\Debug\netcoreapp3.1\Mis321_gPA.dll
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\bin\Debug\netcoreapp3.1\Mis321_gPA.pdb
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\obj\Debug\netcoreapp3.1\Mis321_gPA.csprojAssemblyReference.cache
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\obj\Debug\netcoreapp3.1\Mis321_gPA.AssemblyInfoInputs.cache
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\obj\Debug\netcoreapp3.1\Mis321_gPA.AssemblyInfo.cs
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\obj\Debug\netcoreapp3.1\Mis321_gPA.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\obj\Debug\netcoreapp3.1\Mis321_gPA.dll
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\obj\Debug\netcoreapp3.1\Mis321_gPA.pdb
+C:\Users\hunte\OneDrive - The University of Alabama\Repos\MIS321\Mis321_gPA\obj\Debug\netcoreapp3.1\Mis321_gPA.genruntimeconfig.cache
