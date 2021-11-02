@@ -1,23 +1,31 @@
-.navbar{
-    background-color: rgb(66, 131, 252);
-    width: 100%;
-    height: 40px;
-    position: relative;
+body{
+    background-color: burlywood;
+    text-align: center;
 }
-.linkPages{
-    position: absolute;
-    top: 50%;
-    transform: translate(0%, -50%);
+.navbar {
+    background-color: gray;
+    overflow: hidden;
 }
-.navbar li{
-    display: inline;
-    padding: 20px;
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
-.navbar a{
-    text-decoration: none;
-    color: black;
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
 }
-a.orange{
+.navbar a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+.navbar-right {
+  float: right;
+}
+a.white{
     color: whitesmoke;
 }
 .banner{
@@ -29,41 +37,72 @@ a.orange{
     padding: 100px 0px;
 }
 h1 {
-    display: table; 
-    margin: 0px auto 0px auto; 
+    background-color:darkgoldenrod;
+    color: black; 
+    text-align: center;
+    margin: 0 auto; 
     padding:5px;
-    font-size:50px;
-    background-color:white;
-    color: black;
+    font-size:4vw;
 }
 h2{
-    display: table; 
-    margin: 0px auto 0px auto; 
-    padding:5px;
-    font-size:15px;
-    background-color:white;
-    color: black;
-}
-
-.calander{
     background-color: darkgoldenrod;
-    float: left;
-    width: 300px;
-    vertical-align: top;
-    height: 300px;
-    margin-top: 20px;
-}
-h3{
+    color: black;
+    display: center; 
     text-align: center;
+    padding:5px;
+    font-size:17px;
+}
+.calander{
+    display: inline-block;
+    background-color: darkgoldenrod;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 10px;
+    transition: transform .2s;
 }
 .map{
+    display: inline-block;
     background-color: darkgoldenrod;
-    float: right;
-    width: 300px;
-    vertical-align: top;
+    width: 350px;
     height: 300px;
-    margin-top: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    transition: transform .2s;
 }
-h4{
+.picture{
+    display: inline-block;
+    background-color: darkgoldenrod;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 10px;
+    transition: transform .2s;    
+}
+img{
+    width:100%; 
+    height: auto;
+    margin: 10px;
+    border-radius: 10px;
+}
+.calander:hover{
+    transform: scale(1.02);
+}
+.map:hover{
+    transform: scale(1.02);
+}
+.picture:hover{
+    transform: scale(1.02);
+}
+h3{
+    display: center;
+    margin: 0px auto 0px auto; 
+    padding:5px;
+    font-size:30px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: gray;
+    color: black;
     text-align: center;
 }
+
