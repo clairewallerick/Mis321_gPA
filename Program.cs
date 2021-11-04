@@ -6,7 +6,7 @@ namespace Mis321_gPA
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Big Al's Farmers Market!");
         }
     }
 }
