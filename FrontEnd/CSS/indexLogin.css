@@ -28,24 +28,20 @@ body{
 a.white{
     color: whitesmoke;
 }
-.login{
+.Login{
     display: inline-block;
     background-color: darkgoldenrod;
     width: 350px;
-    height: 300px;
+    height: auto;
     border-radius: 10px;
     margin: 10px;
 }
-form {
-    border: 3px solid #f1f1f1;
-  }
   
   input[type=text], input[type=password] {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
     box-sizing: border-box;
   }
   
@@ -61,12 +57,6 @@ form {
   
   button:hover {
     opacity: 0.8;
-  }
-  
-  .cancelbtn {
-    width: auto;
-    padding: 10px 18px;
-    background-color: #f44336;
   }
   
   .imgcontainer {
@@ -87,4 +77,13 @@ form {
     float: right;
     padding-top: 16px;
   }
-  
+  h1{
+    display: center;
+    margin: 0px auto 0px auto; 
+    font-size:30px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: gray;
+    color: black;
+    text-align: center;
+}
